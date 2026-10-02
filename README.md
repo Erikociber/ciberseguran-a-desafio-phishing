@@ -16,4 +16,4 @@ Método de ataque:Site Cloner
 Obtendo o endereço da máquina:ifconfig
 URL para clonar: http://www.facebook.com
 
-![Demonstração do Phishing](senha.png)
+![Demonstração do Phishing](./senha.png)
